@@ -16,7 +16,7 @@
 
 I'm Esraa Mahmoud, an NLP junior engineer and of course a languege lover, i tried many tracks till i reAch NLP and Machine Learning, i care so much about details ,data quality, management, design and code quality of the things I build.
 
-  <img align="right" alt="GIF"  src="https://miro.medium.com/v2/resize:fit:1202/1*VCP7mtN9ufGamAOrmX0hjw.gif" width="420" height="250" />
+  <img align="right" alt="GIF"  src="https://miro.medium.com/v2/resize:fit:1202/1*VCP7mtN9ufGamAOrmX0hjw.gif" width="350" height="250" />
   
 - 💼 any freelance work? do reach, [esraamahmoudsaid@gmail.com](esraamahmoudsaid@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
