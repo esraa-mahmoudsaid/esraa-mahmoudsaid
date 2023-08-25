@@ -14,14 +14,14 @@
 
 <br />
 
-I'm Esraa Mahmoud, an NLP junior engineer and of course a languege lover, i tried many tracks till i reAch NLP and Machine Learning, i care so much about details ,data quality, management, design and code quality of the things I build.
+I'm Esraa Mahmoud, an NLP junior engineer and of course a language lover, I tried many tracks till I reached NLP and Machine Learning, I care so much about details, data quality, management, design, and code quality of the things I build.
 
   <img align="right" alt="GIF"  src="https://miro.medium.com/v2/resize:fit:1202/1*VCP7mtN9ufGamAOrmX0hjw.gif" width="350" height="250" />
   
 - 💼 any freelance work? do reach, [esraamahmoudsaid@gmail.com](esraamahmoudsaid@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+- 💬 ask me about anything, I am happy to help;
 
-**languages and tools:**  
+**Languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/sas/sas-ar21.svg"></code>
