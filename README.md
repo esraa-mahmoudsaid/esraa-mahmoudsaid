@@ -16,7 +16,7 @@
 
 I'm Esraa Mahmoud, an NLP junior engineer, and a UX enthusiast, I care so much about details, data quality, management, design, and code quality of the things I build.
 
-  <img align="right" alt="GIF"  src="https://miro.medium.com/v2/resize:fit:1202/1*VCP7mtN9ufGamAOrmX0hjw.gif" width="350" height="250" />
+
   
 - 💼 any freelance work? do reach, [esraamahmoudsaid@gmail.com](esraamahmoudsaid@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
