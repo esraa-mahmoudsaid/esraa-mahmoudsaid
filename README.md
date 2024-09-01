@@ -8,13 +8,13 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Junior-NLP-Engineer;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+
 </p> 
 
 
 <br />
 
-I'm Esraa Mahmoud, an NLP junior engineer, and a UX enthusiast, I care so much about details, data quality, management, design, and code quality of the things I build.
+I'm Esraa Mahmoud, a Data Analyst with a passion for AI and Natural Language Processing (NLP), I care so much about details, data quality and management of the analytical solutions and models I develop.
 
 
   
